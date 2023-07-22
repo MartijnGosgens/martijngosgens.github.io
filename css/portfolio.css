@@ -1,0 +1,19 @@
+
+.lowercase, .subheading {
+    text-transform: initial !important;
+}
+
+@media (min-width:500px) {
+    .img-profile {
+        float: right;
+    }
+}
+
+.list-icons a {
+	color: #495057;
+}
+ 
+.list-icons a:hover {
+	color: #bd5d38;
+	text-decoration: none;
+}
